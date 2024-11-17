@@ -1,6 +1,4 @@
-# Selamat Datang di Open-Source Project Blocka!
-
-![Blocka Digital](/assets/banner.png)
+## Selamat Datang di Open-Source Project Blocka!
 
 Bloka adalah komunitas software engineer yang lahir dari semangat inovasi teknologi. Fokus utama kami adalah eksplorasi dan pengembangan di bidang blockchain, namun kami juga membuka pintu lebar untuk diskusi, kolaborasi, dan belajar bersama di berbagai bidang teknologi lainnya.
 
