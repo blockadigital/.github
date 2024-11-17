@@ -2,5 +2,10 @@
 
 ![Blocka Digital](/assets/banner.png)
 
-Blocka adalah komunitas yang berfokus pada eksplorasi dan penerapan teknologi blockchain dalam berbagai kasus penggunaan nyata. Kami berdedikasi untuk membangun, mengembangkan, dan mengimplementasikan solusi blockchain yang inovatif. Blocka menjadi wadah bagi para penggiat blockchain dari berbagai latar belakang untuk berbagi pengetahuan, berkolaborasi dalam proyek-proyek penting, dan mendorong adopsi teknologi ini di dunia nyata. Di Blocka, kami percaya bahwa blockchain memiliki potensi besar untuk merevolusi industri, dan bersama-sama, kami bekerja untuk mewujudkan masa depan yang lebih transparan, terdesentralisasi, dan efisien.
+Bloka adalah komunitas software engineer yang lahir dari semangat inovasi teknologi. Fokus utama kami adalah eksplorasi dan pengembangan di bidang blockchain, namun kami juga membuka pintu lebar untuk diskusi, kolaborasi, dan belajar bersama di berbagai bidang teknologi lainnya.
 
+Dengan visi untuk menjadi tempat berkumpulnya para talenta teknologi, Bloka menyediakan ruang bagi para pemikir, pengembang, dan inovator untuk bertukar ide, memperdalam keahlian, serta menciptakan solusi kreatif yang berdampak besar.
+
+Gabung bersama kami dan jadilah bagian dari perjalanan teknologi yang tak terbatas! 🚀
+
+[Klik di sini untuk masuk ke server Discord Bloka](https://discord.gg/mUuH4ty6RA)
